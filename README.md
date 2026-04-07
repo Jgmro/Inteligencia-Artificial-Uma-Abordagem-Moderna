@@ -1,11 +1,10 @@
 # Inteligencia-Artificial
-'''Inteligência Artificial de Stuart Russel e Peter Norvig
-'''
+Inteligência Artificial de Stuart Russel e Peter Norvig
 
 <table class="infobox biography vcard">
 <tbody>
 <tr>
-    <td colspan="2"><a class="image" href="1.jpg."><img src="1.jpg" srcset="1.jpg" alt="https://www2.eecs.berkeley.edu/Faculty/Photos/Fullsize/russell.jpg" width="192" height="227" data-file-width="600" data-file-height="700" /></a> 
+    <td colspan="2"><a class="image" href="1.jpg."><img src="1.jpg" srcset="1.jpg" alt="https://www2.eecs.berkeley.edu/Faculty/Photos/Fullsize/russell.jpg" width="350" height="227" data-file-width="600" data-file-height="700" /></a> 
 </td>
 
 </tr>
