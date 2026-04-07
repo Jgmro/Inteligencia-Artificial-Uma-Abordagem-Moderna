@@ -11,7 +11,7 @@ Inteligência Artificial de Stuart Russel e Peter Norvig
 <tr>
 <th scope="row">Nascido</th>
 <td>
-<div class="nickname"> Stuart Russel</div>
+<div class="nickname"> Stuart Russel<div>
 <br/>1962<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;64)</span><br />
     <div class="birthplace"><a title="Portsmouth" href="https://en-wikipedia-org.translate.goog/wiki/Portsmouth?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc">Portsmouth, Hampshire</a>, Inglaterra</div>
 </td>
