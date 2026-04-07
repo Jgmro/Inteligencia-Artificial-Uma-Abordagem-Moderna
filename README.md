@@ -1,2 +1,2 @@
-# Intelig-ncia-Artificial
+# Inteligencia-Artificial
 Inteligência Artificial de Stuart Russel e Peter Norvig
